@@ -1,7 +1,6 @@
 # Drill - Undo things safely
 
 **Time:** ~5 minutes
-**Difficulty:** ★★☆☆☆
 
 ## Why this drill
 

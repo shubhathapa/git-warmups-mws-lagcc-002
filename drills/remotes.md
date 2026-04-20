@@ -1,7 +1,6 @@
 # Drill - Working with remotes
 
 **Time:** ~5 minutes
-**Difficulty:** ★★☆☆☆
 
 ## Why this drill
 

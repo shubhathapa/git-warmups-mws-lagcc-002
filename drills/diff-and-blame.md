@@ -1,7 +1,6 @@
 # Drill - Diff and blame
 
 **Time:** ~5 minutes
-**Difficulty:** ★★☆☆☆
 
 ## Why this drill
 

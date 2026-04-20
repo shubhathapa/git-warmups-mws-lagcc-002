@@ -1,7 +1,6 @@
 # Drill - Tags and releases
 
 **Time:** ~5 minutes
-**Difficulty:** ★★☆☆☆
 
 ## Why this drill
 

@@ -1,7 +1,6 @@
 # Drill - Stage, unstage, commit
 
 **Time:** ~5 minutes
-**Difficulty:** ★☆☆☆☆
 
 ## Why this drill
 

@@ -1,7 +1,6 @@
 # Drill - Reading `git status` and `git log`
 
 **Time:** ~5 minutes
-**Difficulty:** ★☆☆☆☆
 
 ## Why this drill
 

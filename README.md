@@ -16,7 +16,7 @@ Five minutes. Every morning. Before you open your editor.
 
 These are the equivalent of stretching before exercise - small, repeated movements that keep your Git reflexes sharp. This is not a one-week assignment that ends after Friday. **You do one warmup every day** for the length of the program. Some days you'll pick a new drill; some days you'll redo one you've done before because it still feels slow.
 
-Companion handbook page: [Module 1 - Program Setup, Git & GitHub](https://lgcc.github.io/modules/01-setup).
+Companion handbook page: [Module 1 - Program Setup, Git & GitHub](https://ttpr-lgcc.github.io/handbook/modules/01-setup).
 
 ## Objectives
 
@@ -79,18 +79,18 @@ That's it. One new commit on your branch per day.
 
 You rotate through these. Redoing one you've already done is not cheating - it's the entire point. The drills that feel hardest are the ones you should repeat most.
 
-| Drill | What it teaches | Difficulty |
-|---|---|---|
-| [reading-status.md](./drills/reading-status.md) | Read `git status`, `git log`, `git diff` output | ★☆☆☆☆ |
-| [staging.md](./drills/staging.md) | `add`, `restore --staged`, `commit` | ★☆☆☆☆ |
-| [branching.md](./drills/branching.md) | `branch`, `checkout -b`, `branch -d` | ★★☆☆☆ |
-| [conflicts.md](./drills/conflicts.md) | Deliberately cause a merge conflict, resolve it | ★★★☆☆ |
-| [undoing.md](./drills/undoing.md) | `restore`, `commit --amend`, when to use which | ★★☆☆☆ |
-| [remotes.md](./drills/remotes.md) | `fetch`, `pull`, `push`, upstream tracking | ★★☆☆☆ |
-| [stashing.md](./drills/stashing.md) | `stash push`, `stash pop`, `stash list` | ★★☆☆☆ |
-| [rebasing.md](./drills/rebasing.md) | Interactive rebase basics (squash, reorder) | ★★★★☆ |
-| [tagging.md](./drills/tagging.md) | Lightweight vs annotated tags, pushing tags | ★★☆☆☆ |
-| [diff-and-blame.md](./drills/diff-and-blame.md) | `diff`, `blame`, reading `log -p` | ★★☆☆☆ |
+| Drill | What it teaches |
+|---|---|
+| [reading-status.md](./drills/reading-status.md) | Read `git status`, `git log`, `git diff` output |
+| [staging.md](./drills/staging.md) | `add`, `restore --staged`, `commit` |
+| [branching.md](./drills/branching.md) | `branch`, `checkout -b`, `branch -d` |
+| [conflicts.md](./drills/conflicts.md) | Deliberately cause a merge conflict, resolve it |
+| [undoing.md](./drills/undoing.md) | `restore`, `commit --amend`, when to use which |
+| [remotes.md](./drills/remotes.md) | `fetch`, `pull`, `push`, upstream tracking |
+| [stashing.md](./drills/stashing.md) | `stash push`, `stash pop`, `stash list` |
+| [rebasing.md](./drills/rebasing.md) | Interactive rebase basics (squash, reorder) |
+| [tagging.md](./drills/tagging.md) | Lightweight vs annotated tags, pushing tags |
+| [diff-and-blame.md](./drills/diff-and-blame.md) | `diff`, `blame`, reading `log -p` |
 
 ## Rules
 

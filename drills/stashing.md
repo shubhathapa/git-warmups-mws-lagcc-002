@@ -1,7 +1,6 @@
 # Drill - Stashing work-in-progress
 
 **Time:** ~5 minutes
-**Difficulty:** ★★☆☆☆
 
 ## Why this drill
 

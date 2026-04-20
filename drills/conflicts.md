@@ -1,7 +1,6 @@
 # Drill - Cause and resolve a merge conflict
 
 **Time:** ~5-10 minutes
-**Difficulty:** ★★★☆☆
 
 ## Why this drill
 

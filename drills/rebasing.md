@@ -1,7 +1,6 @@
 # Drill - Interactive rebase basics
 
 **Time:** ~10 minutes
-**Difficulty:** ★★★★☆
 
 ## Why this drill
 
