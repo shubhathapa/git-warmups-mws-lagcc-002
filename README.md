@@ -8,13 +8,10 @@ resources: 2
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Cohort MWS](https://img.shields.io/badge/cohort-MWS_(Mon%2FWed%2FSat)-blueviolet?style=for-the-badge)
-![Duration](https://img.shields.io/badge/5_min%2Fday-green?style=for-the-badge)
 
 > **Wrong cohort?** If your class meets Tuesday / Thursday / Saturday, use [`git-warmups-trs-lagcc-002`](https://github.com/ttpr-lgcc/git-warmups-trs-lagcc-002) instead. This repo is for the Monday / Wednesday / Saturday cohort.
 
 ## Background
-
-Five minutes. Every morning. Before you open your editor.
 
 These are the equivalent of stretching before exercise - small, repeated movements that keep your Git reflexes sharp. This is not a one-week assignment that ends after Friday. **You do one warmup every day** for the length of the program. Some days you'll pick a new drill; some days you'll redo one you've done before because it still feels slow.
 
@@ -48,7 +45,7 @@ You work on **your personal branch** indefinitely. Your branch becomes a dated l
 ### Every morning
 
 1. **Pick a drill** from [`drills/`](./drills/). You can pick any one. Rotate through them over time so you hit all ten.
-2. **Do the drill** in your terminal. Most take 3-5 minutes of actual commands.
+2. **Do the drill** in your terminal.
 3. **Log what you did** in a new file named after today's date: `submissions/<your-username>/YYYY-MM-DD.md`.
 4. **Commit** with a message that names the drill you did:
    ```bash

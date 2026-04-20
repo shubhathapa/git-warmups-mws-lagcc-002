@@ -1,7 +1,5 @@
 # Drill - Cause and resolve a merge conflict
 
-**Time:** ~5-10 minutes
-
 ## Why this drill
 
 Merge conflicts freeze more new developers than any other Git situation. Deliberately causing one (so you can resolve it) is the fastest way to kill that fear.

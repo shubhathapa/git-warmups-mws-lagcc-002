@@ -1,7 +1,5 @@
 # Drill - Stage, unstage, commit
 
-**Time:** ~5 minutes
-
 ## Why this drill
 
 The staging area is the concept that trips up most new git users. This drill makes the three states - untracked, staged, committed - visible and tangible.

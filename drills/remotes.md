@@ -1,7 +1,5 @@
 # Drill - Working with remotes
 
-**Time:** ~5 minutes
-
 ## Why this drill
 
 `origin`, `upstream`, `fetch`, `pull`, `push` - these words get mixed up a lot. This drill makes the picture concrete.

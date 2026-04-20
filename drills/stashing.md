@@ -1,7 +1,5 @@
 # Drill - Stashing work-in-progress
 
-**Time:** ~5 minutes
-
 ## Why this drill
 
 You're mid-change on one thing when an urgent bug fix lands on main. Stash lets you set your current work aside and come back to it later.

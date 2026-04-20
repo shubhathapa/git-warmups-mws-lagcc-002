@@ -1,7 +1,5 @@
 # Drill - Interactive rebase basics
 
-**Time:** ~10 minutes
-
 ## Why this drill
 
 Rebase lets you reshape history: squash commits, reorder them, edit messages, drop mistakes. It's the most powerful "clean up my work before sharing it" tool in Git. It's also the most dangerous tool if misused.

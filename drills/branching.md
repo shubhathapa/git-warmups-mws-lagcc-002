@@ -1,7 +1,5 @@
 # Drill - Branch, switch, delete
 
-**Time:** ~5 minutes
-
 ## Why this drill
 
 Branches are cheap in Git. New users treat them like they cost something; they don't. This drill makes creating and throwing away branches feel routine.

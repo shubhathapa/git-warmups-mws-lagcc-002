@@ -1,7 +1,5 @@
 # Drill - Tags and releases
 
-**Time:** ~5 minutes
-
 ## Why this drill
 
 Tags mark specific commits as important, usually for releases (`v1.0.0`, `v2.3.1`). They're pointers that never move, unlike branches. Every real codebase uses them.

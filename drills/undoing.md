@@ -1,7 +1,5 @@
 # Drill - Undo things safely
 
-**Time:** ~5 minutes
-
 ## Why this drill
 
 You will mess something up. Knowing how to calmly undo the three most common mistakes is the difference between "oops" and "I need help, I broke everything."

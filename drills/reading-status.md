@@ -1,7 +1,5 @@
 # Drill - Reading `git status` and `git log`
 
-**Time:** ~5 minutes
-
 ## Why this drill
 
 Half of all "my git is broken" moments are solved by actually reading the output of `git status`. This drill builds the habit of reading, not skimming.

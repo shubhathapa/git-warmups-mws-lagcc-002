@@ -1,7 +1,5 @@
 # Drill - Diff and blame
 
-**Time:** ~5 minutes
-
 ## Why this drill
 
 `git diff` answers "what changed?" `git blame` answers "who changed this line and when?" You'll use both constantly in real work, especially when debugging.
