@@ -4,11 +4,13 @@ tags: warmup, daily-practice, morning-drill, ongoing
 resources: 2
 ---
 
-# Daily Git Warmups
+# Daily Git Warmups - MWS Cohort
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Daily](https://img.shields.io/badge/cadence-daily-blue?style=for-the-badge)
+![Cohort MWS](https://img.shields.io/badge/cohort-MWS_(Mon%2FWed%2FSat)-blueviolet?style=for-the-badge)
 ![Duration](https://img.shields.io/badge/5_min%2Fday-green?style=for-the-badge)
+
+> **Wrong cohort?** If your class meets Tuesday / Thursday / Saturday, use [`git-warmups-trs-lagcc-002`](https://github.com/ttpr-lgcc/git-warmups-trs-lagcc-002) instead. This repo is for the Monday / Wednesday / Saturday cohort.
 
 ## Background
 
@@ -35,8 +37,8 @@ Across the weeks and months you spend on this, you should be able to, without lo
 ### One-time setup
 
 ```bash
-git clone git@github.com:ttpr-lgcc/git-warmups-lagcc-002.git
-cd git-warmups-lagcc-002
+git clone git@github.com:ttpr-lgcc/git-warmups-mws-lagcc-002.git
+cd git-warmups-mws-lagcc-002
 git checkout -b <your-username>
 git push -u origin <your-username>
 ```
@@ -45,7 +47,7 @@ You work on **your personal branch** indefinitely. Your branch becomes a dated l
 
 ### Every morning
 
-1. **Pick a drill** from [`drills/`](./drills/). You can pick any one. Beginner? Start with `reading-status.md`. Already comfortable there? Move to `branching.md`. Already automatic with branching? Try `rebasing.md`. You choose.
+1. **Pick a drill** from [`drills/`](./drills/). You can pick any one. Rotate through them over time so you hit all ten.
 2. **Do the drill** in your terminal. Most take 3-5 minutes of actual commands.
 3. **Log what you did** in a new file named after today's date: `submissions/<your-username>/YYYY-MM-DD.md`.
 4. **Commit** with a message that names the drill you did:
