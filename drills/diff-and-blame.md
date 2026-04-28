@@ -36,8 +36,15 @@ git show <commit-sha>          # same for any commit
 ## Questions to answer in your daily log
 
 - What's the difference between `git diff` and `git diff --cached`?
+git diff shows changes you made but not staged yet 
+git diff --cached shows changed staged but not committed yet
+
 - What's the difference between `git diff HEAD` and `git diff HEAD~1`?
+HEAD shows the latest commit on your current branch
+HEAD~1 shows shows one commit before HEAD
+
 - When would you use `git blame`?
+to see what changed have been made before and who did it 
 
 ## Variations
 
